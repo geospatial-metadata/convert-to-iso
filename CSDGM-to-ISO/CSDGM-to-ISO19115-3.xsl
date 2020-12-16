@@ -48,7 +48,7 @@
     xmlns:vmf="http://www.altova.com/MapForce/UDF/vmf"
     exclude-result-prefixes="fn grp vmf xs xsi xsl exslt">
 
-    <xsl:include href="GSDGM-to-ISO19115-2.xsl"/>
+    <xsl:include href="CSDGM-to-ISO19115-2.xsl"/>
     <xsl:include href="ISO19115-2-to-ISO19115-3.xsl"/>
     <xsl:output method="xml" indent="yes"/>
 
