@@ -1,5 +1,15 @@
-# convert-to-iso
+# geospatial-metadata
 
-This is an initial prototype describing the anticipated content. 
+The goal is to provide resources that are useful for the creation and maintenance of the ISO 19115 family of geospatial metadata standards. The repositories will contain
+* A compilation of existing materials
+* Information developed to support colleagues using a localized version of GeoNetwork internally named GeoData
+* Code
+  * XML transforms to convert from other metadata standards to ISO
+  * Batch processing for metadata creation
+  * other topics as they evolve
 
-This repo contains XML transforms (XSLT) and other code for converting selected geospatial metadata to ISO 19115. This includes standard conversions between ISO 19115, 19139, and 19110 versions.
+--
+# main-resources
+
+This is the initial repo with the majority of content.
+
