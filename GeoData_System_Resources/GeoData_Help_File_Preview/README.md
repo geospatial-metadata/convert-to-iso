@@ -1,6 +1,6 @@
 # GeoData Web Documentation Preview
 
-This is a preview including pending changes to the GeoData online documentation at 4[geodata.nal.usda.gov/help](https://geodata.nal.usda.gov/help)
+This is a preview including pending changes to the GeoData online documentation at [geodata.nal.usda.gov/help](https://geodata.nal.usda.gov/help)
 
 The preview is provided to make updates publically available more quickly than the next scheduled website updata.
 To view the preview web pages:

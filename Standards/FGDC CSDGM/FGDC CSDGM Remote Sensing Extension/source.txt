@@ -1,0 +1,2 @@
+schemas from:
+https://github.com/GSA/ckanext-geodatagov/tree/master/ckanext/geodatagov/validation/xml
